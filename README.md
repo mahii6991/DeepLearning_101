@@ -1,2 +1,2 @@
 # DeepLearning_101
-A repository based on the courser taught by the deep learning.
+A repository based on the course taught by the deep learning.
